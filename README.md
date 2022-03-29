@@ -1,7 +1,7 @@
 <h1 align="center">
   Olá, seja bem-vindo ao meu perfil :smiley:
   
-  Meu nome é Henrique de Paula e eu sou engenheiro de dados!
+  Meu nome é Henrique de Paula e eu sou um engenheiro de dados em formação!
 </h1>
 
 <div align="center">
