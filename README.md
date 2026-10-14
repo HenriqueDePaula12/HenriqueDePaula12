@@ -12,7 +12,7 @@
 ## 🛠️ No que eu tenho trabalhado
 
 - **Lakehouse na AWS**: camadas landing → bronze → silver → gold no S3 com **PySpark + Delta Lake** rodando em **Glue/EMR**, consultadas pelo **Athena** e consumidas no **Power BI**.
-- **Orquestração**: DAGs em **Apache Airflow** (2.x e 3) e **Step Functions**, comparativos com **Dagster** e **Mage**, e monitoramento das execuções com alertas no Slack.
+- **Orquestração**: DAGs em **Apache Airflow** (2.x e 3) e **Step Functions** e monitoramento das execuções com alertas no Slack.
 - **Ingestão**: integrações com APIs, Google Drive e bancos relacionais (Oracle/PostgreSQL/RDS), com carga incremental por watermark e funções **Lambda**.
 - **Qualidade e governança**: **PyDeequ** / Great Expectations para data quality e **OpenMetadata** para catálogo e linhagem.
 - **Infra como código**: **Terraform**, **AWS CDK** e **CloudFormation**, com permissões em **IAM**.
@@ -52,8 +52,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Dagster-4F43DD?style=flat-square">
-  <img src="https://img.shields.io/badge/Mage-6B4FBB?style=flat-square">
   <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square">
   <img src="https://img.shields.io/badge/OpenMetadata-7147E8?style=flat-square">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square">
