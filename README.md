@@ -68,6 +68,8 @@
 <div align="center">
   <a href="mailto:henriquedepaula626@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/henrique-de-paula-6613581b6/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-  ![Snake animation](https://github.com/HenriqueDePaula12/HenriqueDePaula12/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+<p align="center">
+  <img alt="Gojo Satoru - Domain Expansion" width="100%" src="assets/gojo-domain-expansion.gif">
+</p>
