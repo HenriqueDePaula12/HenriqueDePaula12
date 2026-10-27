@@ -71,5 +71,5 @@
 </div>
 
 <p align="center">
-  <img alt="Gojo Satoru - Domain Expansion" width="100%" src="assets/gojo-domain-expansion.gif">
+  <img alt="Gojo Satoru - Hollow Purple" width="400" src="assets/gojo-hollow-purple.gif">
 </p>
